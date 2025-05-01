@@ -9,13 +9,8 @@ Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competi
 ---
 
 ### 🚀 Tech Stack
-- Languages: Java, HTML, CSS, JavaScript, C, C++, Python
+- Languages and frameworks: Java, HTML, CSS, JavaScript, C, C++, Python, ReactJs, Gsap, LocomotiveJs
 - Tools: Git, VS Code, Arduino IDE
-
----
-
-### 📊 GitHub Stats=
-https://github-readme-stats.vercel.app/api?username=shivayan-07&show_icons=true&theme=radical
 
 ---
 
