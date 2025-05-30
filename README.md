@@ -1,6 +1,6 @@
 # 💻 Shivayan Chakravarty
 
-Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competitive programmer.
+Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competitive programmer
 
 - 🎓 2nd Year | Electronics & Telecommunication Engineering | Assam Engineering College
 - 💡 Interested in solving real-world problems through code
