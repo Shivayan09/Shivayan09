@@ -15,7 +15,7 @@ Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competi
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/shivayan-chakravarty/)
+- [LinkedIn]([https://www.linkedin.com/in/shivayan-chakravarty/](https://www.linkedin.com/in/shivayan-chakravarty-806702294/))
 - Email: *shivayanchak@gmail.com*
 
 > "Always learning. Always building."
