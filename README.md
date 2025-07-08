@@ -5,7 +5,7 @@ Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competi
 - 🎓 2nd Year | Electronics & Telecommunication Engineering | Assam Engineering College
 - 💡 Interested in solving real-world problems through code
 - 💻 Competitive Programmer (Current Codeforces rating : 1238)
-- 🏅 CP Moderator @Coding Club AEC for session 2024-25
+- 🏅 CP Moderator @ Coding Club AEC for session 2024-25
 ---
 
 ### 🚀 Tech Stack
