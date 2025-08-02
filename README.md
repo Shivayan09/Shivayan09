@@ -9,7 +9,7 @@ Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competi
 ---
 
 ### 🚀 Tech Stack
-- Languages and frameworks: Java, HTML, CSS, JavaScript, C, C++, Python, ReactJs, Gsap, LocomotiveJs
+- Languages and frameworks: Java, C, C++, HTML, CSS, JavaScript, Gsap, LocomotiveJs, ReactJs, NodeJs, MongoDB, ExpressJs
 - Tools: Git, VS Code, Arduino IDE
 
 ---
