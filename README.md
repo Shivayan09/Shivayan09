@@ -5,6 +5,8 @@ Hi there! I'm **Shivayan Chakravarty**, a passionate tech enthusiast and competi
 - 🎓 3rd Year | Electronics & Telecommunication Engineering | Assam Engineering College
 - 💡 Interested in solving real-world problems through code
 - 💻 Competitive Programmer (Current Codeforces rating : 1419, Specialist)
+- Ex-SDE Intern at Bootcoding Pvt Ltd
+- SDE Intern at Spaceborn
 - 🏅 President of Coding Club AEC
 ---
 
