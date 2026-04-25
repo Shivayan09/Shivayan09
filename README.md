@@ -1,16 +1,16 @@
 <!-- Header -->
-<h1 align="center">Hi! I'm Shivayan Chakravarty</h1>
+<h1 align="center">Hi👋! I'm Shivayan Chakravarty</h1>
 <h3 align="center">Building things that (mostly) work ⚙️ | Competitive Programmer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year @ Assam Engineering College (ETC)
-- 💻 Competitive Programmer (**Codeforces Specialist - 1419**)
-- 🚀 SDE Intern @ Spaceborn | Ex-Intern @ Bootcoding Pvt Ltd
-- 🏆 President, Coding Club AEC
-- ⚡ I build real-world stuff that doesn’t crash (usually)
+- 3rd Year @ Assam Engineering College (ETC)
+- Competitive Programmer (**Codeforces Specialist - 1419**)
+- SDE Intern @ Spaceborn | Ex-Intern @ Bootcoding Pvt Ltd
+- President, Coding Club AEC
+- I build real-world stuff that doesn’t crash (usually)
 
 ---
 
