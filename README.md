@@ -42,7 +42,7 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_HANDLE&theme=tokyonight" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=NoCap09&theme=tokyonight" />
 </p>
 
 ---
