@@ -6,8 +6,8 @@
 
 <!-- Profile Views + Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivayan-chakravarty&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/shivayan-chakravarty?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Shivayan09&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Shivayan09?label=Followers&style=social" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 💻 Competitive Programmer (**Codeforces Specialist - 1419**)
 - 🚀 SDE Intern @ Spaceborn | Ex-Intern @ Bootcoding Pvt Ltd
 - 🏆 President, Coding Club AEC
-- ⚡ I like building real-world stuff that doesn't crash (most of the time)
+- ⚡ I build real-world stuff that doesn’t crash (usually)
 
 ---
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivayan-chakravarty&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=shivayan-chakravarty&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivayan09&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Shivayan09&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivayan-chakravarty&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivayan09&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -77,6 +77,6 @@
 
 ---
 
-## ⚡ Quote I Pretend I Follow Daily
+## ⚡ Quote
 
 > *"Always learning. Always building."*
