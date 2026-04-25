@@ -1,14 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Shivayan Chakravarty</h1>
+<h1 align="center">Hi! I'm Shivayan Chakravarty</h1>
 <h3 align="center">Building things that (mostly) work ⚙️ | Competitive Programmer</h3>
-
----
-
-<!-- Profile Views + Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivayan09&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Shivayan09?label=Followers&style=social" />
-</p>
 
 ---
 
