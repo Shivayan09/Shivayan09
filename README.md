@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi👋! I'm Shivayan Chakravarty</h1>
+<h1 align="center">Hi👋 I'm Shivayan Chakravarty</h1>
 <h3 align="center">Building things that (mostly) work ⚙️ | Competitive Programmer</h3>
 
 ---
