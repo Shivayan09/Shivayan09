@@ -31,22 +31,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivayan09&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=NoCap09&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - 🔹 **Dashify** – Student productivity dashboard (MERN)
