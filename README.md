@@ -16,8 +16,6 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,docker,git,arduino" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -25,15 +23,11 @@
   <img src="https://streak-stats.demolab.com?user=Shivayan09&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 - 🔹 **Dashify** – Student productivity dashboard (MERN)
 - 🔹 **Codemeter** – Developer stats visualizer (React + APIs)
 - 🔹 **Vector** – Full-stack social media platform
-
----
 
 ## 🤝 Connect With Me
 
@@ -46,8 +40,6 @@
 <p align="center">
   📧 shivayanchak@gmail.com
 </p>
-
----
 
 ## ⚡ Quote
 
