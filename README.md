@@ -28,9 +28,9 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 **Dashify** – Student productivity dashboard (MERN)
-- 🔹 **Codemeter** – Developer stats visualizer (React + APIs)
 - 🔹 **Vector** – Full-stack social media platform
+- 🔹 **Resume Analyzer** – ATS friendly live resume builder + analyzer
+- 🔹 **Dashify** – Student productivity dashboard
 
 
 ## 🤝 Connect With Me
