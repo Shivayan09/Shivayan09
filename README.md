@@ -6,7 +6,7 @@
 
 - 3rd Year @ Assam Engineering College (ETC)
 - Competitive Programmer (**Codeforces Specialist - 1419**)
-- SDE Intern @ Spaceborn | Ex-Intern @ Bootcoding Pvt Ltd
+- SDE Intern @ Vrixaalabs Pvt Ltd | Ex-Intern @ Bootcoding Pvt Ltd and @ Spaceborn
 - President, Coding Club AEC
 - I build real-world stuff that doesn’t crash (usually)
 
