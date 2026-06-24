@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-- 3rd Year @ Assam Engineering College (ETC)
+- Final Year @ Assam Engineering College (ETE)
 - Competitive Programmer (**Codeforces Specialist - 1419**)
 - SDE Intern @ Vrixaalabs Pvt Ltd | Ex-Intern @ Bootcoding Pvt Ltd and @ Spaceborn
 - President, Coding Club AEC
